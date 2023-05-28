@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 #Collision Handling using Linked list -->
 HashTable = [[] for i in range(10)]
@@ -45,10 +40,7 @@ while(choice!=3):
     print("\t\t**MENU**\n\t1)Insert new telephone number\n\t2)Display\n\t3)Quit")
     choice = int(input("\n\tEnter choice: "))
 
-
-# In[6]:
-
-
+    
 #Collision Handling using linear probing -->
 
 HashTable = [-1 for i in range(10)]
@@ -101,13 +93,7 @@ while(choice!=3):
     choice = int(input("\n\tEnter choice: "))
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
