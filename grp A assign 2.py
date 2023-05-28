@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-'''Implement all the functions of a dictionary (ADT) using hashing and handle collisions
-using chaining with / without replacement.
-Data: Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable,
-Keys must be unique. Standard Operations: Insert(key, value), Find(key), Delete(key)'''
-
-
-# In[1]:
 
 
 HashTable = [[] for i in range(10)]
@@ -55,7 +42,6 @@ def find(HashTable,value):
     if(flag==0):
         print("Value is not Present")
 
-#Main Code--->
 print("\t\t**MENU**\n\t1)Insert new roll number\n\t2)Display\n\t3)Delete\n\t4)Find\n\t5)Quit")
 choice = int(input("\n\tEnter choice: "))
 while(choice!=5):
@@ -79,15 +65,6 @@ while(choice!=5):
         print("Invalid input!")
     print("\t\t**MENU**\n\t1)Insert new roll number\n\t2)Display\n\t3)Delete\n\t4)Find\n\t5)Quit")
     choice = int(input("\n\tEnter choice: "))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
