@@ -1,11 +1,4 @@
-/*Beginning with an empty binary search tree, Construct a binary search tree by inserting
-the values in the order given. After constructing a binary tree -
-i. Insert new node
-ii. Find number of nodes in longest path from root
-iii. Display BST
-iv. Minimum data value found in the tree
- 
-***********************************************************************************************/
+
 #include <iostream>
 using namespace std;
 
