@@ -1,7 +1,7 @@
 # SPPU_DSAL
 hello guys !
 I have uploaded simpliest and shortest codes of data structure and algorithm Lab codes collected from Github ^^^^
-this codes are from syllabus of SE ( Semester 4 ) artificial intelligence and Data Science / Computer engineering 
+These codes are from syllabus of SE ( Semester 4 ) artificial intelligence and Data Science / Computer engineering 
 which comes under SPPU
 _____________________________________________________________________________________________________________
 
